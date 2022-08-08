@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://cariblens.com/wp-content/uploads/2021/08/white-abstract-background_23-2148810246.jpg');
+    font-family: 'Pangolin', cursive;
+}
+
+#main_title{
+    font-size: 4em;
+    /* padding-left: 10cm; */
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+#side_title{
+    
+    margin-right: 10cm;
+   
+}
+#alphabets{
+    /* margin-left: 10cm; */
+    padding-top: 1cm;
+
+}
+
